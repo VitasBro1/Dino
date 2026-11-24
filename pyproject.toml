@@ -1,0 +1,13 @@
+[project]
+name = "dino-neat"
+version = "1.0.0"
+description = "NEAT agent for Chrome Dino (T-Rex Runner)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "neat-python>=0.92",
+    "playwright>=1.65.2",
+]
+
+[project.urls]
+Homepage = "https://github.com/VitasBro1/Dino"

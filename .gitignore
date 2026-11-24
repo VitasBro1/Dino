@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Environments
+.venv/
+venv/
+
+# Training artifacts
+neat-checkpoint-*/
+train_neat.log
+eval.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
